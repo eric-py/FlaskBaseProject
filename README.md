@@ -19,8 +19,8 @@ base/
 ## Getting Started
 
 1. Clone the repository:
-    - git clone Project.
-    - `cd flask-base`
+    - git clone` https://github.com/eric-py/FlaskBaseProject.git`
+    - `cd FlaskBaseProject`
 
 
 2. Set up a virtual environment (optional but recommended):
